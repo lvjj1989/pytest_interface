@@ -1,8 +1,8 @@
 from requests.sessions import Session
-from functools import wraps
 from jinja2 import Template
 from copy import deepcopy
 from collections import OrderedDict
+import types
 
 try:
     from urlparse import urljoin
@@ -14,7 +14,7 @@ from .json_processor import JSONProcessor
 
 
 class HttpRequest(object):
-    def __init__(self, url='', method='get', **kwargs):
+    def __init__(self, url='', method='get', timeout=30,  **kwargs):
         self.url = url
         self.method = method
         self.decorator_args = kwargs
@@ -22,12 +22,13 @@ class HttpRequest(object):
         self.func_doc = None
         self.func_im_self = None
         self.session = None
+        self.timeout = timeout
 
     def __call__(self, func):
         self.func = func
         self.is_class = False
         try:
-            if inspect.getargspec(func).args[0] == 'self':
+            if inspect.getfullargspec(func).args[0] == 'self':
                 self.is_class = True
         except IndexError:
             pass
@@ -45,7 +46,8 @@ class HttpRequest(object):
             self.create_session()
             self.session.headers.update(getattr(self.func_im_self, 'headers', {}))
             self.decorator_args.update(self.func_return)
-            return Request(self.method, self.url, self.session, self.func_doc, self.decorator_args)
+            return Request(self.method, self.url, self.session, self.timeout, self.func_doc, self.decorator_args)
+
         return fun_wrapper
 
     def create_url(self):
@@ -97,6 +99,7 @@ def context(func):
             self._log()
 
         return res
+
     return wrapper
 
 
@@ -105,13 +108,14 @@ class Request(object):
     请求对象模型
     """
 
-    def __init__(self, method, url, session, doc, args):
+    def __init__(self, method, url, session, timeout, doc, args):
         self.method = method
         self.url = url
         self.session = session
         self.doc = doc
         self.args = args
         self.response = None
+        self.timeout = timeout
         self.log_content = [
             dict(desc=u'接口描述', value=doc),
             dict(desc=u'请求url', value=url),
@@ -202,7 +206,7 @@ class Request(object):
     def _request(self):
         if not self.response:
             self.prepare_log()
-            self.response = self.session.request(self.method, self.url, **self.args)
+            self.response = self.session.request(method=self.method, url=self.url, timeout=self.timeout, **self.args)
 
     def __getattr__(self, item):
         self._request()

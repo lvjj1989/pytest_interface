@@ -8,6 +8,8 @@ class Test:
 
     # data_mock
     DATS_MOCK_HOST = "http://lvjunjie.cn:5000"
+    # DATS_MOCK_HOST = "http://127.0.0.1:5000"
+
 
     class ACCOUNT:
         CRM_USER = '18000000000', '123456'
