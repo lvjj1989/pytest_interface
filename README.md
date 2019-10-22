@@ -8,4 +8,4 @@ db：数据库层，用于编写sql等提供给测试用例层调用或者断言
 test_suitus：测试用例集层，内部会有不同业务线的测试用例层，编写测试用例逻辑，调用API层，进行接口流程自动化测试，并真的测试预期结果进行断言
 
 
-备注：推荐使用pytest单元测试框架+jenkins持续集成+allure报告，教程见：https://www.jianshu.com/p/200601e444a8
+备注：推荐使用pytest单元测试框架+jenkins持续集成+allure报告，教程见：https://lvjunjie.cn/qa-study/pytest/pytest%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90.html
