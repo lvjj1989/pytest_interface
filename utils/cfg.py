@@ -10,7 +10,6 @@ class Test:
     DATS_MOCK_HOST = "http://lvjunjie.cn:5000"
     # DATS_MOCK_HOST = "http://127.0.0.1:5000"
 
-
     class ACCOUNT:
         CRM_USER = '18000000000', '123456'
 
@@ -33,19 +32,21 @@ class Online:
         CRM_USER = '18000000000', '123456'
 
 
-
-
 CONFIG = Test
 
-BUILD_USER = os.getenv('BUILD_USER', 'tester')
+BUILD_USER = os.getenv('BUILD_USER', 'tester')  # 取Jenkins中执行用户的用户名
 if BUILD_USER == '':
     BUILD_USER = 'tester'
 
-environment = os.getenv('environment', 'test')
+environment = os.getenv('environment', 'test')  # 执行环节，可配置
 
 if environment == 'test':
     CONFIG = Test
+elif environment == 'beta':
+    CONFIG = Beta
+elif environment == 'ga':
+    CONFIG = Online
 else:
     CONFIG = Test
 
-allure.environment(测试环境=environment, host=CONFIG.DATS_MOCK_HOST, 执行人=BUILD_USER, 测试项目='DMP后台接口')
+allure.environment(测试环境=environment, host=CONFIG.DATS_MOCK_HOST, 执行人=BUILD_USER, 测试项目='lvjj测试项目')

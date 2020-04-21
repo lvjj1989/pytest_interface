@@ -6,6 +6,7 @@ from utils.cfg import CONFIG
 
 host = CONFIG.DATS_MOCK_HOST
 
+
 class DataMockApi(object):
 
     def __init__(self):
