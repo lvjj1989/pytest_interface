@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="de5ad48f-3546-4826-981a-a3932dbb317a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apis/data_mock_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/apis/data_mock_api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/cfg.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/cfg.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +125,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -223,7 +222,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_data_count.TestDataCount.test_data_count&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
@@ -240,7 +238,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/test_suites/test_data_count/test_data_count.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
@@ -273,7 +270,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540545663002</updated>
-      <workItem from="1587433226585" duration="1787000" />
+      <workItem from="1587433226585" duration="2403000" />
+      <workItem from="1591709466382" duration="3000" />
     </task>
     <servers />
   </component>
