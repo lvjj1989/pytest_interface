@@ -1,62 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/tools" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="de5ad48f-3546-4826-981a-a3932dbb317a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/get_error_link_to_report_basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_dmp_brand_TestDmpBrand_test_dmp_brand_list.coverage" NAME="py.test for test_dmp_brand.TestDmpBrand.test_dmp_brand_list Coverage Results" MODIFIED="1541746799132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp_mail" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_dmp_brand_TestDmpBrand_test_dmp_brand_select.coverage" NAME="py.test for test_dmp_brand.TestDmpBrand.test_dmp_brand_select Coverage Results" MODIFIED="1542252011650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp_mail" />
     <SUITE FILE_PATH="coverage/pytest_hbh$data_count.coverage" NAME="data_count Coverage Results" MODIFIED="1541912514835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_free_ticket_TestFreeTicket_test_.coverage" NAME="py.test for test_free_ticket.TestFreeTicket.test_索票首页 Coverage Results" MODIFIED="1542788705766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_online" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_store_list_TestStorelist_test_store_list.coverage" NAME="py.test for test_store_list.TestStorelist.test_store_list Coverage Results" MODIFIED="1540640497943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/dmp" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_dmp_brand_TestDmpBrand_test_dmp_brand_sava.coverage" NAME="py.test for test_dmp_brand.TestDmpBrand.test_dmp_brand_sava Coverage Results" MODIFIED="1541747156896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp_mail" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$result_processing.coverage" NAME="result_processing Coverage Results" MODIFIED="1542612807562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_dmp_brand_TestDmpBrand_test_dum_brand_select.coverage" NAME="py.test for test_dmp_brand.TestDmpBrand.test_dum_brand_select Coverage Results" MODIFIED="1540792522117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp_mail" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$hbh_dmp_login_api.coverage" NAME="hbh_dmp_login_api Coverage Results" MODIFIED="1542352801649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_in_test_store_list_py.coverage" NAME="py.test in test_store_list.py Coverage Results" MODIFIED="1540891985883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp_login" />
-    <SUITE FILE_PATH="coverage/pytest_interface$111.coverage" NAME="111 Coverage Results" MODIFIED="1552543769857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common/swagger_api" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_login_dmp_TestLogin_test_login_session.coverage" NAME="py.test for test_login_dmp.TestLogin.test_login_session Coverage Results" MODIFIED="1540804794163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$test_login_dmp.coverage" NAME="test_login_dmp Coverage Results" MODIFIED="1540603970827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$free_ticket_api.coverage" NAME="free_ticket_api Coverage Results" MODIFIED="1542592031088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$free_ticket_online_api.coverage" NAME="free_ticket_online_api Coverage Results" MODIFIED="1542677921538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis" />
-    <SUITE FILE_PATH="coverage/pytest_interface$py_test_for_test_data_count_TestDataCount_test_data_count.coverage" NAME="py.test for test_data_count.TestDataCount.test_data_count Coverage Results" MODIFIED="1571046418987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_data_count" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$huibohui_MDP_api.coverage" NAME="huibohui_MDP_api Coverage Results" MODIFIED="1542710825135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$config.coverage" NAME="config Coverage Results" MODIFIED="1540550344693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_free_ticket_TestFreeTicket.coverage" NAME="py.test for test_free_ticket.TestFreeTicket Coverage Results" MODIFIED="1542788375607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_online" />
     <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_store_list_TestStorelist.coverage" NAME="py.test for test_store_list.TestStorelist Coverage Results" MODIFIED="1540548580661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$pithy_api.coverage" NAME="pithy_api Coverage Results" MODIFIED="1540891855617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_dmp_login_TestLogin_test_login_session.coverage" NAME="py.test for test_dmp_login.TestLogin.test_login_session Coverage Results" MODIFIED="1541474279757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp_login" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$hbh_dmp_brand_api.coverage" NAME="hbh_dmp_brand_api Coverage Results" MODIFIED="1540783627264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_free_ticket_TestFreeTicket_test_test_free_ticket_save_inputphone.coverage" NAME="py.test for test_free_ticket.TestFreeTicket.test_test_free_ticket_save_inputphone Coverage Results" MODIFIED="1542606776138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_online" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_in_test_account_py.coverage" NAME="py.test in test_account.py Coverage Results" MODIFIED="1542265865322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_MDP/test_Account" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_in_test_dmp_login_py.coverage" NAME="py.test in test_dmp_login.py Coverage Results" MODIFIED="1541474282163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp_login" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$free_ticket_api.coverage" NAME="free_ticket_api Coverage Results" MODIFIED="1542592031088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_store_list_TestStorelist_test_store_list.coverage" NAME="py.test for test_store_list.TestStorelist.test_store_list Coverage Results" MODIFIED="1540640497943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/dmp" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_dmp_brand_TestDmpBrand_test_dmp_brand_list.coverage" NAME="py.test for test_dmp_brand.TestDmpBrand.test_dmp_brand_list Coverage Results" MODIFIED="1541746799132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp_mail" />
     <SUITE FILE_PATH="coverage/pytest_hbh$hbh_dmp_user.coverage" NAME="hbh_dmp_user Coverage Results" MODIFIED="1542357322573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis" />
     <SUITE FILE_PATH="coverage/pytest_hbh$hunbohuiDMPbops.coverage" NAME="hunbohuiDMPbops Coverage Results" MODIFIED="1542028695179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$hbh_dmp_brand_api.coverage" NAME="hbh_dmp_brand_api Coverage Results" MODIFIED="1540783627264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$conftest.coverage" NAME="conftest Coverage Results" MODIFIED="1542617878233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_in_test_login_dmp_py.coverage" NAME="py.test in test_login_dmp.py Coverage Results" MODIFIED="1540804655692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$pithy_api.coverage" NAME="pithy_api Coverage Results" MODIFIED="1540891855617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis" />
+    <SUITE FILE_PATH="coverage/pytest_interface$hunbohui_db.coverage" NAME="hunbohui_db Coverage Results" MODIFIED="1542880513272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_free_ticket_TestFreeTicket_test_.coverage" NAME="py.test for test_free_ticket.TestFreeTicket.test_索票首页 Coverage Results" MODIFIED="1542788705766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_online" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$test_login_dmp.coverage" NAME="test_login_dmp Coverage Results" MODIFIED="1540603970827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp" />
     <SUITE FILE_PATH="coverage/pytest_hbh$py_test_in_test_store_list_py__1_.coverage" NAME="py.test in test_store_list.py (1) Coverage Results" MODIFIED="1540641885601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$huibohuiMDP2.coverage" NAME="huibohuiMDP2 Coverage Results" MODIFIED="1542208487320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis" />
+    <SUITE FILE_PATH="coverage/pytest_interface$data_mock_api.coverage" NAME="data_mock_api Coverage Results" MODIFIED="1571045334909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis" />
     <SUITE FILE_PATH="coverage/pytest_interface$proxy_to_requests_jenkins.coverage" NAME="proxy_to_requests_jenkins Coverage Results" MODIFIED="1544151941928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/pytest_interface$py_test_in_test_data_count_py.coverage" NAME="py.test in test_data_count.py Coverage Results" MODIFIED="1571046268230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_data_count" />
+    <SUITE FILE_PATH="coverage/pytest_interface$111.coverage" NAME="111 Coverage Results" MODIFIED="1552543769857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common/swagger_api" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_dmp_brand_TestDmpBrand_test_dum_brand_select.coverage" NAME="py.test for test_dmp_brand.TestDmpBrand.test_dum_brand_select Coverage Results" MODIFIED="1540792522117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp_mail" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_in_test_free_ticket_py.coverage" NAME="py.test in test_free_ticket.py Coverage Results" MODIFIED="1542788462843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_online" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_dmp_brand_TestDmpBrand_test_dmp_brand_select.coverage" NAME="py.test for test_dmp_brand.TestDmpBrand.test_dmp_brand_select Coverage Results" MODIFIED="1542252011650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp_mail" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$free_ticket_online_api.coverage" NAME="free_ticket_online_api Coverage Results" MODIFIED="1542677921538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$conftest.coverage" NAME="conftest Coverage Results" MODIFIED="1542617878233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$huibohuiMDP2.coverage" NAME="huibohuiMDP2 Coverage Results" MODIFIED="1542208487320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$hbh_dmp_login_api.coverage" NAME="hbh_dmp_login_api Coverage Results" MODIFIED="1542352801649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$hunbohuiDMPlogin.coverage" NAME="hunbohuiDMPlogin Coverage Results" MODIFIED="1540638106939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_in_test_login_dmp_py.coverage" NAME="py.test in test_login_dmp.py Coverage Results" MODIFIED="1540804655692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_in_test_dmp_brand_py.coverage" NAME="py.test in test_dmp_brand.py Coverage Results" MODIFIED="1542619289522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp_mail" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_dmp_brand_TestDmpBrand_test_dmp_brand_sava.coverage" NAME="py.test for test_dmp_brand.TestDmpBrand.test_dmp_brand_sava Coverage Results" MODIFIED="1541747156896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp_mail" />
     <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_login_dmp_TestLogin.coverage" NAME="py.test for test_login_dmp.TestLogin Coverage Results" MODIFIED="1540804804611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp" />
     <SUITE FILE_PATH="coverage/pytest_hbh$generate_script.coverage" NAME="generate_script Coverage Results" MODIFIED="1542699113719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/script" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_in_test_free_ticket_py.coverage" NAME="py.test in test_free_ticket.py Coverage Results" MODIFIED="1542788462843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_online" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_account_TestAccount_test_account.coverage" NAME="py.test for test_account.TestAccount.test_account Coverage Results" MODIFIED="1542265829467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_MDP/test_Account" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$huibohui_MDP_api.coverage" NAME="huibohui_MDP_api Coverage Results" MODIFIED="1542710825135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_dmp_login_TestLogin_test_login_session.coverage" NAME="py.test for test_dmp_login.TestLogin.test_login_session Coverage Results" MODIFIED="1541474279757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp_login" />
-    <SUITE FILE_PATH="coverage/pytest_interface$hunbohui_db.coverage" NAME="hunbohui_db Coverage Results" MODIFIED="1542880513272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_free_ticket_TestFreeTicket_test_test_free_ticket_save_inputphone.coverage" NAME="py.test for test_free_ticket.TestFreeTicket.test_test_free_ticket_save_inputphone Coverage Results" MODIFIED="1542606776138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_online" />
-    <SUITE FILE_PATH="coverage/pytest_interface$py_test_in_test_data_count_py.coverage" NAME="py.test in test_data_count.py Coverage Results" MODIFIED="1571046268230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_data_count" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_in_test_login_dmp_py__1_.coverage" NAME="py.test in test_login_dmp.py (1) Coverage Results" MODIFIED="1540641220848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp" />
-    <SUITE FILE_PATH="coverage/pytest_interface$utils.coverage" NAME="utils Coverage Results" MODIFIED="1544079882667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$hunbohuiDMPlogin.coverage" NAME="hunbohuiDMPlogin Coverage Results" MODIFIED="1540638106939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$utils.coverage" NAME="utils Coverage Results" MODIFIED="1540609108592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$config.coverage" NAME="config Coverage Results" MODIFIED="1540550344693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$result_processing.coverage" NAME="result_processing Coverage Results" MODIFIED="1542612807562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/pytest_interface$py_test_for_test_data_count_TestDataCount_test_data_count.coverage" NAME="py.test for test_data_count.TestDataCount.test_data_count Coverage Results" MODIFIED="1571046418987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_data_count" />
     <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_free_ticket_TestFreeTicket_test_test_free_ticket_index.coverage" NAME="py.test for test_free_ticket.TestFreeTicket.test_test_free_ticket_index Coverage Results" MODIFIED="1542607442155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_online" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_free_ticket_TestFreeTicket.coverage" NAME="py.test for test_free_ticket.TestFreeTicket Coverage Results" MODIFIED="1542788375607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_online" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_in_test_dmp_login_py.coverage" NAME="py.test in test_dmp_login.py Coverage Results" MODIFIED="1541474282163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp_login" />
-    <SUITE FILE_PATH="coverage/pytest_interface$data_mock_api.coverage" NAME="data_mock_api Coverage Results" MODIFIED="1571045334909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apis" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_in_test_dmp_brand_py.coverage" NAME="py.test in test_dmp_brand.py Coverage Results" MODIFIED="1542619289522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp_mail" />
-    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_in_test_account_py.coverage" NAME="py.test in test_account.py Coverage Results" MODIFIED="1542265865322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_MDP/test_Account" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_in_test_login_dmp_py__1_.coverage" NAME="py.test in test_login_dmp.py (1) Coverage Results" MODIFIED="1540641220848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_in_test_store_list_py.coverage" NAME="py.test in test_store_list.py Coverage Results" MODIFIED="1540891985883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp_login" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_login_dmp_TestLogin_test_login_session.coverage" NAME="py.test for test_login_dmp.TestLogin.test_login_session Coverage Results" MODIFIED="1540804794163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_account_TestAccount_test_account.coverage" NAME="py.test for test_account.TestAccount.test_account Coverage Results" MODIFIED="1542265829467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_MDP/test_Account" />
+    <SUITE FILE_PATH="coverage/pytest_interface$utils.coverage" NAME="utils Coverage Results" MODIFIED="1544079882667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/pytest_hbh$utils.coverage" NAME="utils Coverage Results" MODIFIED="1540609108592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
     <SUITE FILE_PATH="coverage/pytest_hbh$py_test_for_test_dmp_brand_TestDmpBrand.coverage" NAME="py.test for test_dmp_brand.TestDmpBrand Coverage Results" MODIFIED="1542610288711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_suites/test_dmp_mail" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="get_error_link_to_report_basic.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/get_error_link_to_report_basic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="31" column="34" lean-forward="true" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conftest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conftest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -106,6 +148,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/requirements.txt" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -115,11 +164,36 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1934" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectId" id="1apWsnlMiLui9I8Rax68X8MUSHz" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pytest_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytest_interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pytest_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytest_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -133,6 +207,9 @@
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\github\pytest_interface\common" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\github\pytest_interface\tools" />
       <recent name="E:\github\pytest_interface" />
@@ -140,9 +217,18 @@
       <recent name="E:\github\pytest_interface\common\rap_to_pytestapi" />
       <recent name="E:\gitlab\pytest_hbh\script" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\github\pytest_interface\common" />
-    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Python.111">
     <configuration name="111" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -163,9 +249,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="data_mock_api" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pytest_hbh" />
@@ -185,9 +268,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="proxy_to_requests_jenkins" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pytest_hbh" />
@@ -207,9 +287,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="py.test for test_data_count.TestDataCount.test_data_count" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pytest_hbh" />
@@ -225,7 +302,6 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_data_count.TestDataCount.test_data_count&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
     </configuration>
     <configuration name="py.test in test_data_count.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pytest_hbh" />
@@ -241,7 +317,6 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/test_suites/test_data_count/test_data_count.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.111" />
@@ -307,7 +382,60 @@
       <configuration name="py.test for test_data_count.TestDataCount.test_data_count" configurationId="tests" />
     </history-entry>
   </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32922733" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="SciView" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tools/get_error_link_to_report_basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="31" column="34" lean-forward="true" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

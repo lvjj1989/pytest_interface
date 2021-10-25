@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/pytest_hbh.iml" filepath="$PROJECT_DIR$/.idea/pytest_hbh.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pytest_interface.iml" filepath="$PROJECT_DIR$/.idea/pytest_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pytest_interface.iml" filepath="$PROJECT_DIR$/.idea/pytest_interface.iml" />
     </modules>
   </component>
 </project>
