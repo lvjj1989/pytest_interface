@@ -3,7 +3,7 @@
 *.log
 *.txt
 *.doc
-*/.idea/
+*/.idea/*
 *.target
 /HtttpAutomation/target/
 /class/

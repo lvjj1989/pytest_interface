@@ -13,3 +13,4 @@ pymongo==3.6.1
 PyMySQL==0.9.2
 redis==2.10.6
 pithy-test==0.0.16
+selenium ==3.14.1
