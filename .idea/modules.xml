@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pytest_hbh.iml" filepath="$PROJECT_DIR$/.idea/pytest_hbh.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/pytest_interface.iml" filepath="$PROJECT_DIR$/.idea/pytest_interface.iml" />
-    </modules>
-  </component>
-</project>
